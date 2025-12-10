@@ -1,2 +1,2 @@
 # Simple-Javascript-website-
-This is a simple JavaScript website created as an exercise in 4 hours. It is not fully responsive
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=github&logoColor=white)]([https://mohammed-awad-eng.github.io/Portfolio/](https://mohammed-awad-eng.github.io/Simple-Javascript-website/))
